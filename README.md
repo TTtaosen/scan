@@ -5,6 +5,7 @@
 
 使用nmap插件 nmap-vulners进行漏洞测试
 
+# 环境安装
 windows 下安装nmap
 
 http://blog.51cto.com/talk1985/1934186
@@ -14,4 +15,7 @@ http://blog.51cto.com/talk1985/1934186
 安装python-nmap 在底层调用nmap
 
 pip3 install python-nmap
+
+# 使用
+python3 scan.py
 
